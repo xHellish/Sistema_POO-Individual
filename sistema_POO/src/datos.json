@@ -1,0 +1,39 @@
+{
+    "admins": [
+		"SINAC",
+		"MINAE",
+		"Programa de Manejo de Vida Silvestre"
+	],
+    
+    "especies": [
+		"Perezoso",
+		"Tucán",
+		"Mono aullador",
+		"Quetzal",
+		"Tortuga baula",
+		"Jaguar",
+		"Árbol de Guanacaste",
+		"Orquídeas",
+		"Bromelias",
+		"Árbol de corteza amarilla",
+		"Palmas",
+		"Helechos"
+	],
+	
+	"profesionales": [
+		"Biólogo", 
+        "Guardabosque", 
+        "Abogado", 
+        "Geógrafo", 
+        "Educador", 
+        "Ingeniero", 
+        "Científico"
+	],
+	
+	"tecnologías": [
+		"Cámara Trampa",
+		"GPS",
+		"Drones",
+		"Base de Datos"
+	]
+}
