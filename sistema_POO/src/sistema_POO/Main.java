@@ -1,4 +1,5 @@
 package sistema_POO;
+import graphic.Estado;
 import graphic.Frame;
 
 public class Main {
@@ -7,6 +8,9 @@ public class Main {
 		
 		Frame ventana = new Frame();
 		ventana.setVisible(true);
+		
+		Estado ventana2 = new Estado();
+		ventana2.setVisible(true);
 		
 	}
 
