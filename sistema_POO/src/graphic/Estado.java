@@ -40,7 +40,7 @@ public class Estado extends JFrame {
 		lblNewLabel_1_1_1.setBackground(new Color(255, 255, 255));
 		lblNewLabel_1_1_1.setFont(new Font("Sylfaen", Font.PLAIN, 24));
 		
-		
+		// ------------ Hábitats --------------- //
 		JComboBox comboBox = new JComboBox();
 		comboBox.setBackground(new Color(51, 153, 153));
 		comboBox.setFont(new Font("Sylfaen", Font.PLAIN, 20));
