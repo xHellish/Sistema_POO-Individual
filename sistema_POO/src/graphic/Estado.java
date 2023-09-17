@@ -51,7 +51,6 @@ public class Estado extends JFrame {
 		comboBox.addItem("Sabana");
 		contentPane.add(comboBox);
 		
-		
 		JLabel lblNewLabel = new JLabel("Estado de las Especies");
 		lblNewLabel.setFont(new Font("Sylfaen", Font.PLAIN, 24));
 		lblNewLabel.setBounds(10, 11, 276, 48);
