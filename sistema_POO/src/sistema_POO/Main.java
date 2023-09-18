@@ -9,9 +9,6 @@ public class Main {
 		Frame ventana = new Frame();
 		ventana.setVisible(true);
 		
-		Estado ventana2 = new Estado();
-		ventana2.setVisible(true);
-		
 	}
 
 }
