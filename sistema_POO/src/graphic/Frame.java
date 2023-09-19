@@ -12,8 +12,11 @@ import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.Color;
+import javax.swing.JPanel;
 
 public class Frame extends JFrame {
+	
+	public int horasExe;
 	
 	public Frame() {
 		
@@ -26,6 +29,11 @@ public class Frame extends JFrame {
 		lblNewLabel.setFont(new Font("Sylfaen", Font.PLAIN, 24));
 		lblNewLabel.setBounds(193, 11, 320, 41);
 		getContentPane().add(lblNewLabel);
+		
+		JLabel lblNewLabel_1 = new JLabel("Horas de Corrimiento: " + horasExe);
+		lblNewLabel_1.setFont(new Font("Sylfaen", Font.PLAIN, 20));
+		lblNewLabel_1.setBounds(358, 311, 213, 41);
+		getContentPane().add(lblNewLabel_1);
 		
 		// ------------------ Botones admins --------------- //
 		JButton btnNewButton = new JButton("SINAC");
@@ -69,10 +77,7 @@ public class Frame extends JFrame {
 		
 		getContentPane().add(btnNewButton_2);
 		
+		
+		
 	}
-	
-	
-	// ----------------- Métodos ----------------------- //
-	
-
 }
