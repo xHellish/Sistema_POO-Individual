@@ -1,18 +1,15 @@
 package sistema_POO;
 
-public class Especie {
+public class Especie extends Animal{
 	
-	private String nombre;
-	private String estado;
-	private int poblacion;
-	private String habitat;
-	
-	public Especie (String _nombre, String _estado, int _poblacion, String _habitat) {
-		this.nombre = _nombre;
-		this.estado = _estado;
+	public Especie (String _especie, boolean extinta, int _poblacion, String _habitat) {
+		this.especie = _especie;
+		this.extinta = extinta;
 		this.poblacion = _poblacion;
 		this.habitat = _habitat;
-		
 	}
 	
+	public void extinguir() {
+		this.extinta = true;
+	}
 }

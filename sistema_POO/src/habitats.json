@@ -1,0 +1,30 @@
+{
+    "Zona Montañosa": [
+		"Carpintero", 
+		"Quetsal", 
+		"Tucán", 
+		"Rana", 
+		"Serpiente"],
+    
+    "Bosque Tropical": [
+		"Tucán", 
+		"Quetsal", 
+		"Lagarto", 
+		"Rana", 
+		"Orquídea"],
+		
+    "Manglar": [
+		"Cocodrilo", 
+		"Iguana", 
+		"Mapache", 
+		"Mono", 
+		"Cangrejo"],
+    
+    "Costas y Playas": [
+		"Tortuga", 
+		"Gaviota", 
+		"Cocodrilo", 
+		"Palmera", 
+		"Molusco"]
+		
+}

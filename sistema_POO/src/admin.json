@@ -1,0 +1,39 @@
+{
+    "nombre": "SINAC",
+    
+    "hábitats": [
+		"Zona Montañosa", 
+    	"Bosque Tropical", 
+    	"Manglar", 
+    	"Costas y Playas"
+    	
+    ],
+    
+    "especies": [
+		"Felino",
+		"Ave",
+		"Reptil",
+		"Anfibio",
+		"Pez",
+		"Animal marino",
+		"Flora",
+		"Mamífero"
+	],
+	
+	"profesionales": [
+		"Biólogo", 
+        "Guardabosque", 
+        "Abogado", 
+        "Geógrafo", 
+        "Educador", 
+        "Ingeniero", 
+        "Científico"
+	],
+	
+	"tecnologías": [
+		"Cámara Trampa",
+		"GPS",
+		"Dron",
+		"Base de Datos"
+	]
+}
